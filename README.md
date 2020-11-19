@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello , I'm Jayani Madara 👋
 
-<!--
-**jayani65/jayani65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student in Computing & Information Systems of Sabaragamuwa University
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Vuejs and Laravel framework for my mini project.
+- 🌱 I'm currently studying Software Quality Assurance theories.
+- 😄 I always try to learn on my own.
+- 📫 How to reach me: 
+     [Email : @jayani](madarajayani@gmail.com)
+     [Linkedin : @imjayani](linkedin.com/in/jayani-hettiarachchi-889a6916a)
+     
+- ⚡ Fun fact: Listening music, Watching Tv series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
