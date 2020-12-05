@@ -7,7 +7,7 @@ I'm an undergraduate student in Computing & Information Systems of Sabaragamuwa 
 - 😄 I always try to learn on my own.
 - 📫 How to reach me: 
      
-     [Linkedin : @imjayani](linkedin.com/in/jayani-hettiarachchi-889a6916a)
+     Linkedin : [@imjayani](linkedin.com/in/jayani-hettiarachchi-889a6916a)
      
 - ⚡ Fun fact: Listening music, Watching Tv series
 
