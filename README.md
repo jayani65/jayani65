@@ -6,7 +6,7 @@ I'm an undergraduate student in Computing & Information Systems of Sabaragamuwa 
 - 🌱 I'm currently studying Software Quality Assurance theories.
 - 😄 I always try to learn on my own.
 - 📫 How to reach me: 
-     <img src="https://github-readme-linkedin.vercel.app/[METHOD]?username=[linkedin.com/in/jayani-hettiarachchi-889a6916a]" />
+     [imjayabi](linkedin.com/in/jayani-hettiarachchi-889a6916a)
      
      
 - ⚡ Fun fact: Listening music, Watching Tv series
